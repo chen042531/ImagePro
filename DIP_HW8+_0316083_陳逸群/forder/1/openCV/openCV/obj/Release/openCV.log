@@ -1,0 +1,10 @@
+﻿  main.cpp
+c:\users\yicchen\desktop\homework 8+\change\final\1\opencv\opencv\opencv\include\opencv2\flann\dist.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\yicchen\Desktop\Homework 8+\change\final\1\openCV\openCV\openCV\include\opencv2/legacy/compat.hpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  正在產生程式碼
+  1 of 160 functions ( 0.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  已完成程式碼產生
+  openCV.vcxproj -> C:\Users\yicchen\Desktop\Homework 8+\change\final\1\openCV\openCV\bin\Release\openCV.exe
+  openCV.vcxproj -> bin\Release\openCV.pdb (Full PDB)
